@@ -13,6 +13,9 @@
 # 깃 배우기 좋은 사이트
 - https://backlog.com/git-tutorial/kr/intro/intro1_1.html
 
+# 기술면접 자료
+- https://blog.naver.com/miracle_blossom/222401073323
+
 # 기타
 - 레거시웹을 SPA로 전환 <br/>
 https://www.slideshare.net/NHNFORWARD/nhnforward2019-16
