@@ -15,6 +15,9 @@
 # 기술면접 자료
 - https://blog.naver.com/miracle_blossom/222401073323
 
+# 코딩테스트 참고 자료
+- https://mangkyu.tistory.com/181?category=761305
+- 
 # 기타
 - 레거시웹을 SPA로 전환 <br/>
 https://www.slideshare.net/NHNFORWARD/nhnforward2019-16
